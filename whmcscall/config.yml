@@ -1,0 +1,5 @@
+WHMCS: # Credentials for connection with WHMCS
+  uri: 'https://......../includes/api.php' # API script
+  # Credentials
+  username:
+  password: 
